@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">poop</string>
+    <string name="app_name1">Sales</string>
+    <string name="app_name2">Новости</string>
+    <string name="app_name3">Карта</string>
+    <string name="app_name4">Главная</string>
+    <string name="app_name5">Clean</string>
+    <string name="app_name6">Planet</string>
+    <string name="app_name7">Paper</string>
+</resources>
